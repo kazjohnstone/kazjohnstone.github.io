@@ -39,4 +39,5 @@ can be overwhelming. There is no sense of beginning or end when one enters the A
 in alphabetical order, it is difficult to determine what to click on or search for.
 
 [Search Bar](https://kazjohnstone.github.io/kazjohnstone/images/Southside1.png)
+
 [Sample Film](https://kazjohnstone.github.io/kazjohnstone/images/Southside2.png)
