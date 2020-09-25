@@ -21,6 +21,8 @@ including the Smithsonian National Museum of African American History and Cultur
 The main page of the project is on the University of Chicago website, and follows its design. The website is quite 
 accessible, with identifiable links to the digital archive, background on the team, events the project holds (showings, etc.), 
 and a “Contact Us” page. The website also has a Trailer page, which features a YouTube skit introducing the project.
+The Frequently Asked Questions page clarifies that the site is maintained by a team that is required to approve each
+movie that is sent to the archivist.
 
 When one clicks into the actual database, the UChicago website design gives way to a simpler white layout. Within the 
 Digital Archive of films, visitors are able to search by family last names, as well as to browse by Places, Subjects, 
