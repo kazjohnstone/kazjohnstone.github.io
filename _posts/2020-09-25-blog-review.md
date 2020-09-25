@@ -38,5 +38,5 @@ sheer size. While it is extremely impressive how much material the project has a
 can be overwhelming. There is no sense of beginning or end when one enters the Archive, and while lists do appear
 in alphabetical order, it is difficult to determine what to click on or search for.
 
-![Alt Text](kazjohnstone.github.io/kazjohnstone/images/Screen Shot 2020-09-25 at 6.20.40 PM.png)
-![Alt Text](kazjohnstone.github.io/kazjohnstone/images/Screen Shot 2020-09-25 at 6.24.44 PM.png)
+![Alt Text](kazjohnstone.github.io/kazjohnstone/images/Southside1.png)
+![Alt Text](kazjohnstone.github.io/kazjohnstone/images/Southside2.png)
