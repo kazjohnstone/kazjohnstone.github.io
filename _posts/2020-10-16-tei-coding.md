@@ -12,7 +12,10 @@ into a Google Drive document that was shared with each of us; she then had us ma
 accurate by comparing them to the original .pdf file. It was crucial that the text was transcribed exactly as it appeared, even 
 accounting for any spelling errors that existed within the text. Next, we were required to "annotate" our documents by highlighting
 portions that we would have to encode when we moved to Oxygen. Since the majority of my portion was a conversation, most
-of my document ended up being highlighted on account of quotation usage.
+of my document ended up being highlighted on account of quotation usage. I also found myself interested in the dialogue
+the closer I examined it; I noticed that the characters in the story communicate with lengthy phrases that sound a little
+bit awkward when spoken aloud in 2020. 
+
 I thought this portion was easy, but I definitely had to go back and look for errors, as little things like em-dashes and
 italics easily eluded me. When I was done, my document looked like this:
 
@@ -30,4 +33,8 @@ about it. In spite of this, however, Dr. Stover's in-class demonstrations, as we
 website, helped me to understand how to insert other features such as images, spelling mistakes, and illustrations.
 
 ![Oxygen](https://kazjohnstone.github.io/kazjohnstone.github.io/images/oxygen.png)
+
+Overall, I enjoyed this project a lot more than I had expected! I began to view the coding process more as a fun puzzle to solve
+than simply a repetitive task. I could definitely see myself using Oxygen in the future if I need to, especially since it was
+so easy to learn.
   
