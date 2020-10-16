@@ -30,3 +30,4 @@ about it. In spite of this, however, Dr. Stover's in-class demonstrations, as we
 website, helped me to understand how to insert other features such as images, spelling mistakes, and illustrations.
 
 ![Oxygen](https://kazjohnstone.github.io/kazjohnstone.github.io/images/oxygen.png)
+  
