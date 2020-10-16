@@ -16,7 +16,7 @@ of my document ended up being highlighted on account of quotation usage.
 I thought this portion was easy, but I definitely had to go back and look for errors, as little things like em-dashes and
 italics easily eluded me. When I was done, my document looked like this:
 
-![Oxygen](https://kazjohnstone.github.io/kazjohnstone.github.io/images/oxygen.png)
+![Drive](https://kazjohnstone.github.io/kazjohnstone.github.io/images/drive.png)
 
 For the next portion, I was required to download Oxygen XML Editor, a coding program which I had never used before. In the 
 program, we transcribed the text of the story using TEI, or Text Encoding Initiative, which is one form of XML. 
@@ -28,3 +28,5 @@ inconsistencies in my coding. (I certainly had to fix some errors on more than o
 My column was evidently one of the simpler ones, making prominent usage of quotes and one instance of italics, but that was
 about it. In spite of this, however, Dr. Stover's in-class demonstrations, as well as the information she posted on the course
 website, helped me to understand how to insert other features such as images, spelling mistakes, and illustrations.
+
+![Oxygen](https://kazjohnstone.github.io/kazjohnstone.github.io/images/oxygen.png)
