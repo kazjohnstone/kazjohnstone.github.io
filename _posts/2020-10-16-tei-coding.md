@@ -16,7 +16,7 @@ of my document ended up being highlighted on account of quotation usage.
 I thought this portion was easy, but I definitely had to go back and look for errors, as little things like em-dashes and
 italics easily eluded me. When I was done, my document looked like this:
 
-![Oxygen](kazjohnstone.github.io/kazjohnstone/images/oxygen.png
+![Oxygen](kazjohnstone.github.io/kazjohnstone/images/oxygen.png)
 
 For the next portion, I was required to download Oxygen XML Editor, a coding program which I had never used before. In the 
 program, we transcribed the text of the story using TEI, or Text Encoding Initiative, which is one form of XML. 
