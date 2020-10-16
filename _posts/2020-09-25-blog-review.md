@@ -42,6 +42,6 @@ in alphabetical order, it is difficult to determine what to click on or search f
 film's page could have had longer descriptions of its content; though a short description of each film is provided,
 it is difficult to determine what is happening in each film. 
 
-[Search Bar](https://kazjohnstone.github.io/kazjohnstone/images/Southside1.png)
+[Search Bar]! (https://kazjohnstone.github.io/kazjohnstone/images/Southside1.png)
 
-[Sample Film](https://kazjohnstone.github.io/kazjohnstone/images/Southside2.png)
+[Sample Film]! (https://kazjohnstone.github.io/kazjohnstone/images/Southside2.png)
