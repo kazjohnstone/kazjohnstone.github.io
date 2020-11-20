@@ -17,13 +17,18 @@ of individual characters not only in _Ulysses_ but in all of Joyce’s works. Id
 by work of origin, or character (some characters recur in different works).
 
 For this project, I looked into a number of different map-making softwares. Initially, I was thinking of working with the program ArcGIS, which I 
-am familiar with from a DH project I worked on as a Summer Scholar. That project similarly involved map creation, so I researched ArcGIS again to 
-explore any new features. I was particularly intrigued by the program’s recent StoryMap function, which I watched some tutorials on. With the StoryMap
-function, a user can create a website with multiple maps, as well as present the information in a specific click-through order, akin to an exhibit. 
-Ultimately I decided against using ArcGIS because I found some larger-scale programs.
+am familiar with from a DH project I worked on as a Summer Scholar:
+
+![BorderBib](https://kazjohnstone.github.io/kazjohnstone.github.io/images/borderbib.png)
+
+That project similarly involved map creation, so I researched ArcGIS again to explore any new features. I was particularly intrigued by the program’s recent StoryMap function, which I watched some tutorials on. With the StoryMap function, a user can create a website with multiple maps, as well as present 
+the information in a specific click-through order, akin to an exhibit. Ultimately I decided against using ArcGIS because I found some larger-scale programs.
+
 
 The program I think I would use to write my grant is Neatline. The program describes itself as a cross of “archives and artifacts” through the usage of 
 timelines and both modern and historical maps. I think this program would be ideal for my grant because of its easy accessibility and variety of features.
 I am most interested in a plugin called the SIMILE Timeline Plugin, which adds a timeline feature to the map. The plugin is capable of tracking time in 
 increments down to the second if so desired, which is especially helpful given that the entirety of _Ulysses_ is set in one day. Depending on the amount 
 of entries included in the project, the timeline could also include historical background about Ireland, Joyce’s life, and the literary world at large. 
+
+I'm very excited to see this grant develop!
