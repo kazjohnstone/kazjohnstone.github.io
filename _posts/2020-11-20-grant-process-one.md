@@ -21,6 +21,7 @@ am familiar with from a DH project I worked on as a Summer Scholar:
 
 ![BorderBib](https://kazjohnstone.github.io/kazjohnstone.github.io/images/borderbib.png)
 
+
 That project similarly involved map creation, so I researched ArcGIS again to explore any new features. I was particularly intrigued by the program’s recent StoryMap function, which I watched some tutorials on. With the StoryMap function, a user can create a website with multiple maps, as well as present 
 the information in a specific click-through order, akin to an exhibit. Ultimately I decided against using ArcGIS because I found some larger-scale programs.
 
