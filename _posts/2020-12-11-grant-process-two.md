@@ -20,7 +20,7 @@ the soap and indicate that it recurs; subsequent entries on the timeline involvi
 end goal of this project, as I currently understand it, is a massive Joyce database that collects information (from primary and secondary sources) on the 
 locations but also aids a prospective reader through identification of the many motifs.
 
-![Neatline](https://kazjohnstone.github.io/kazjohnstone.github.io/images/neatline.png)
+![Neatline](https://kazjohnstone.github.io/kazjohnstone.github.io/images/Neatline.png)
 
 _^ a demonstration of the SIMILE plugin's capabilities, charting the developments the day of the Kennedy assassination_
 
