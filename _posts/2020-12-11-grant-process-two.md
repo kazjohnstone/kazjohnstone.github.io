@@ -31,7 +31,9 @@ or their relationship to the story as a whole. My project seeks not just to cata
 of Joyce’s works.
 
 For the CV/Resume option, I decided to go with a resume. Preparing a resume was actually tremendously helpful for me, as it gave me an opportunity to revise 
-my resume and also practice tailoring it to specific applications!
+my resume and also practice tailoring it to specific applications! Below is a section of my resume:
+
+![blogresume](https://kazjohnstone.github.io/kazjohnstone.github.io/images/blogresume.png)
 
 The process of developing this grant proposal has been really fun and informative! Though it’s quite unfortunate that the project is hypothetical, this process
 has given me insight into the necessary elements of a successful proposal.
